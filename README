@@ -1,0 +1,21 @@
+golang 101
+----------
+golang 101 is collection of code in Go, with each indexed file more advanced
+than the next.
+
+status
+------
+ongoing collection.
+
+lessons
+-------
+0_hello.go
+	Hello World!
+1_time.go
+	Print time.
+2_add.go
+	Call a function, pass arguments, receive rc
+3_swap.go
+	Function returning multiple rc.
+4_httpserver.go
+	Simple http deamon
