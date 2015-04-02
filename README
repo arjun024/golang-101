@@ -19,3 +19,7 @@ lessons
 	Function returning multiple rc.
 4_httpserver.go
 	Simple http deamon
+
+contribution
+------------
+feel free to add new files
